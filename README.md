@@ -51,8 +51,9 @@ Cuento con más de 2 años de experiencia desarrollando sitios web enfocados en 
 
 
 ## Git Hub Stats
-
+<div aling="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pablo8Solis&theme=tokyonight&locale=es)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo8Solis)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
