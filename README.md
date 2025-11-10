@@ -62,4 +62,7 @@ Cuento con más de 2 años de experiencia desarrollando sitios web enfocados en 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo8Solis)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<div align="center">
+  <img height="200" src="https://ik.imagekit.io/qfw7crab1/7e33580cb874ed17d5eced2820664907.svg?updatedAt=1762753475605"  />
+</div>
 
