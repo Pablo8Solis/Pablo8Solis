@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <div align="center">
   <img height="400" src="https://ik.imagekit.io/qfw7crab1/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(4).png?updatedAt=1762728773714"  />
 </div>
