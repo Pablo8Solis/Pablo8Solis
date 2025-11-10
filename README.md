@@ -62,3 +62,7 @@ Cuento con más de 2 años de experiencia desarrollando sitios web enfocados en 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo8Solis)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+
+<img src="https://raw.githubusercontent.com/Pablo8Solis/Pablo8Solis/output/snake.svg" alt="Snake animation" />
+
+###
