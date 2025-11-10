@@ -63,6 +63,3 @@ Cuento con más de 2 años de experiencia desarrollando sitios web enfocados en 
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Pablo8Solis/Pablo8Solis/output/snake.svg" alt="Snake animation" />
-
-###
