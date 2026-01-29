@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://ik.imagekit.io/qfw7crab1/PABLO%20SOLIS.png?updatedAt=1762750337519"  />
-</div>
 
 ###
 
