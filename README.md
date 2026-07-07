@@ -23,6 +23,9 @@ Cuento con más de 2 años de experiencia desarrollando sitios web enfocados en 
 
 🔗 https://caras-landing.vercel.app – Una landing page moderna, responsiva y altamente accesible para la prestigiosa revista **CARAS** (Moda, belleza y celebridades). Este proyecto ha sido desarrollado utilizando **React**, **TypeScript** y **Styled Components**, bajo los más altos estándares de desarrollo web y accesibilidad (A11y).
 
+🔗 https://music-app-three-navy.vercel.app – Un clon estético y funcional inspirado en **Apple Music**, construido utilizando **React**, **Redux Toolkit**, **Styled-Components** y con integración en tiempo real de la API de **Deezer**. Este proyecto permite a los usuarios buscar álbumes, ver los detalles de las canciones dentro de cada álbum y gestionar una biblioteca personal de música de manera dinámica y moderna.
+
+
 
 
 ## Tecnologías y herramientas
