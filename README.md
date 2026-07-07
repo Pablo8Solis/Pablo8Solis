@@ -21,7 +21,7 @@ Cuento con más de 2 años de experiencia desarrollando sitios web enfocados en 
 ## Proyectos destacados
 🔗 [WeatherApp](https://weatherappsol.netlify.app) – Weather App que muestra el clima en tiempo real usando una REST API, desarrollada con JavaScript, Axios, SCSS y HTML. 
 
-🔗 [pablosolis.com](https://pablosolis.com) – Mi portafolio personal con animaciones, diseño responsivo y enfoque en experiencia de usuario.  
+🔗 [https://weatherappsol.netlify.app) – Aplicación web para saber clima,que consume una API del tiempo y muestra la información en el navegador. Incluye HTML, estilos (Sass) y un pequeño módulo JavaScript para llamadas a la API. 
 
 
 
