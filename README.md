@@ -15,7 +15,7 @@
 
 Soy  Desarrollador **Front-End** apasionado por crear experiencias web modernas, fluidas y funcionales.  
 
-Cuento con más de 2 años de experiencia desarrollando sitios web enfocados en el Front-End y la experiencia de usuario.
+Experiencia desarrollando sitios web enfocados en el Front-End y la experiencia de usuario.
 
 
 ## Proyectos destacados
